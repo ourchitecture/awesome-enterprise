@@ -6,7 +6,7 @@ Inspired by the [awesome list](https://github.com/sindresorhus/awesome).
 
 ## Contents
 
-- [Technology](#Technology)
+- [Technology](#technology)
 
 ## Technology
 
