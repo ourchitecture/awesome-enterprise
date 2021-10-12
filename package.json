@@ -1,10 +1,19 @@
 {
   "name": "@ourchitecture/awesome-enterprise",
   "version": "1.0.0",
-  "author": "Eric Swanson <ericis@users.noreply.github.com>",
-  "license": "MIT",
+  "author": "Ourchitecture",
+  "private": false,
+  "homepage": "https://github.com/ourchitecture/awesome-enterprise#readme",
+  "bugs": {
+    "url": "https://github.com/ourchitecture/awesome-enterprise/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ourchitecture/awesome-enterprise.git"
+  },
+  "license": "CC0",
   "scripts": {
-    "lint": "awesome-lint"
+    "lint": "awesome-lint https://github.com/ourchitecture/awesome-enterprise"
   },
   "devDependencies": {
     "awesome-lint": "^0.18.0"
