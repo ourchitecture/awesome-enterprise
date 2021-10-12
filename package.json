@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/ourchitecture/awesome-enterprise.git"
   },
-  "license": "CC0",
+  "license": "CC0-1.0",
   "scripts": {
     "lint": "awesome-lint https://github.com/ourchitecture/awesome-enterprise"
   },
