@@ -6,4 +6,8 @@ Inspired by the [awesome list](https://github.com/sindresorhus/awesome).
 
 ## Contents
 
+- [Technology](#Technology)
+
+## Technology
+
 - [Software Architecture](https://mehdihadeli.github.io/awesome-software-architecture/)
