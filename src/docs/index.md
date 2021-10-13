@@ -11,6 +11,7 @@ Inspired by the [awesome list](https://github.com/sindresorhus/awesome).
 - [People](#people)
 - [Process](#process)
 - [Product](#product)
+- [Startup](#startup)
 - [Technology](#technology)
 
 ## Enterprise
