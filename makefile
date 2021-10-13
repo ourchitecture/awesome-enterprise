@@ -61,3 +61,17 @@ install:
 # convenient alias
 .PHONY: build
 build: install
+
+.PHONY: pr
+pr:
+	@git-town new-pull-request
+
+.PHONY: sync
+sync:
+	@git-town sync
+	@git-town prune-branches
+
+.PHONY: main
+main:
+	@git checkout main
+	@make sync
