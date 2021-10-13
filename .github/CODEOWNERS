@@ -1,0 +1,24 @@
+# Maintainers
+* @ourchitecture/awesome-admins @ourchitecture/awesome-maintainers
+
+##################################################
+# ADMIN: changes that trigger admin review
+##################################################
+
+# github
+./.github/settings.* @ourchitecture/awesome-admins
+./.github/CODEOWNERS @ourchitecture/awesome-admins
+
+# git
+./.gitignore @ourchitecture/awesome-admins
+./.gitignore.* @ourchitecture/awesome-admins
+
+# licensing
+./LICENSE.* @ourchitecture/awesome-admins
+
+# tasks
+./makefile @ourchitecture/awesome-admins
+./package.* @ourchitecture/awesome-admins
+./.yarn/ @ourchitecture/awesome-admins
+./.yarnrc @ourchitecture/awesome-admins
+./yarn.lock @ourchitecture/awesome-admins
