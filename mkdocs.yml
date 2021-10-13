@@ -10,6 +10,7 @@ theme:
 
 nav:
   - "Home": "index.md"
+  - "Contributing": "contributing.md"
 
 extra:
   social:

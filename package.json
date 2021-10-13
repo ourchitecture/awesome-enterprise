@@ -13,7 +13,7 @@
   },
   "license": "CC0-1.0",
   "scripts": {
-    "lint": "awesome-lint README.md"
+    "lint": "awesome-lint ./src/docs/index.md"
   },
   "devDependencies": {
     "awesome-lint": "^0.18.0"
