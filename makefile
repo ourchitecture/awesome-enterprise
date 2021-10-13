@@ -1,7 +1,9 @@
 
 .DEFAULT_GOAL:=all
 
-all: start
+# TODO: include "check" once the repo is > 30 days old
+# all: check install
+all: install
 
 # standard target for GNU Make
 .PHONY: check
