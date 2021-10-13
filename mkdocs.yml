@@ -1,0 +1,18 @@
+docs_dir: "src/docs"
+site_name: "Awesome Enterprise"
+site_url: "https://github.com/ourchitecture/awesome-enterprise"
+site_author: "Ourchitecture"
+copyright: "Creative Commons Zero v1.0 Universal (CC0-1.0)"
+theme:
+  name: "material"
+  features:
+    - header.autohide
+
+nav:
+  - "Home": "index.md"
+
+extra:
+  social:
+    - icon: "fontawesome/brands/github"
+      link: "https://github.com/ourchitecture/awesome-enterprise"
+      name: "GitHub"
