@@ -1,13 +1,6 @@
 # Awesome Enterprise [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of delightful productivity resources.
+👋🏼 Welcome and we are glad you stopped by. View our primary documentation:
 
-Inspired by the [awesome list](https://github.com/sindresorhus/awesome).
-
-## Contents
-
-- [Technology](#technology)
-
-## Technology
-
-- [Software Architecture](https://mehdihadeli.github.io/awesome-software-architecture/)
+- [Published documentation](http://www.ourchitecture.io/awesome-enterprise/)
+- [Source documentation](./src/docs/index.md)
